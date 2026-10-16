@@ -1,0 +1,6 @@
+{
+  "name": "APIK — Agen Pendamping Implementasi Kompetensi",
+  "description": "Prototipe AI Agent proaktif pendamping implementasi pasca-pelatihan bagi alumni ASN/Non-ASN UPT Balai Pelatihan SDM Komdigi Bandung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
